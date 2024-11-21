@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/install
+
+Name: lidar_reader
+Description: Description of lidar_reader
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
